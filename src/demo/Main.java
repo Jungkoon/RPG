@@ -101,7 +101,7 @@ public class Main {
             if (humans.isEmpty()) {
             	System.out.print("\n★★ ==== 決着がついた！！ ==== ★★\n");
             	
-            	 System.out.print("\n #### 人間達は敗北した、、 ####\n");
+            	System.out.print("\n #### 人間達は敗北した、、 ####\n");
                 break;
             }
 
